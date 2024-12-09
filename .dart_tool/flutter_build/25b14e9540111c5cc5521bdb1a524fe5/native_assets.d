@@ -1,0 +1,1 @@
+ /Users/louiscarboestaque/Library/Mobile\ Documents/com~apple~CloudDocs/Stockage/Code/mini_projet/.dart_tool/flutter_build/25b14e9540111c5cc5521bdb1a524fe5/native_assets.yaml: 

@@ -1,0 +1,1 @@
+ /Users/louiscarboestaque/Stockage\ Local/mini_projet/.dart_tool/flutter_build/d686ca4a1348ba254cd98dce2380c8e0/native_assets.yaml: 
