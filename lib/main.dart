@@ -37,7 +37,8 @@ class QuestionPageState extends State<QuestionPage> {
     _loadQuestions();
   }
 
-  // MARK: Utilities functions
+  // Cette fonction permet de récupérer les questions, disponibles au format JSON
+  // dans /assets
   Future<void> _loadQuestions() async {
     final String jsonString = await rootBundle.loadString('assets/questions.json');
     final List<dynamic> jsonData = json.decode(jsonString);
